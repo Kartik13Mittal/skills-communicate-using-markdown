@@ -5,3 +5,4 @@
 - 3
 *bolded*
 Some markdown practice going on here
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
